@@ -126,11 +126,18 @@
 .graphic_textbox_layout_style_default_External_233_27 {
     position: relative;
 }
+.graphic_textbox_layout_style_default_External_150_78 {
+    position: relative;
+}
 .graphic_textbox_style_default_SkipStroke {
     background: transparent;
     opacity: 1.00;
 }
 .bumper {
+    font-size: 1px;
+    line-height: 1px;
+}
+.tinyText {
     font-size: 1px;
     line-height: 1px;
 }

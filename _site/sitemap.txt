@@ -1,0 +1,11 @@
+
+http://codeswimmer.github.com/archive.html
+http://codeswimmer.github.com/atom.xml
+http://codeswimmer.github.com/categories.html
+http://codeswimmer.github.com/index.html
+http://codeswimmer.github.com/pages.html
+http://codeswimmer.github.com/sitemap.txt
+http://codeswimmer.github.com/tags.html
+
+http://codeswimmer.github.com/2012/03/12/first-post
+http://codeswimmer.github.com/lessons/2011/12/29/jekyll-introduction

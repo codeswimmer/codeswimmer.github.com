@@ -4,13 +4,21 @@
  <title>codeswimmer</title>
  <link href="http://codeswimmer.github.com/atom.xml" rel="self"/>
  <link href="http://codeswimmer.github.com"/>
- <updated>2012-03-15T07:57:19-07:00</updated>
+ <updated>2012-09-03T08:23:47-07:00</updated>
  <id>http://codeswimmer.github.com</id>
  <author>
    <name>Keith Ermel</name>
    <email>codeswimmer@gmail.com</email>
  </author>
 
+ 
+ <entry>
+   <title>Gists Support</title>
+   <link href="http://codeswimmer.github.com/2012/09/03/gists-support"/>
+   <updated>2012-09-03T00:00:00-07:00</updated>
+   <id>hhttp://codeswimmer.github.com/2012/09/03/gists-support</id>
+   <content type="html"></content>
+ </entry>
  
  <entry>
    <title>First Post</title>

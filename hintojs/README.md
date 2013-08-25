@@ -1,4 +1,0 @@
-hintojs
-=======
-
-browser code (ux)
